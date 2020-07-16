@@ -5,4 +5,10 @@ You are able to experience the real-time view of the car. For the people who don
 
 ![Screenshot](AI.png)
 
-# Tools: Unity3D, blender, android sdk 
+User controls the car using keyboard or can attach a joystick to the simulation. Mixed environment allows user to control the car according to the behaviour of surrounding Cars. In gameplay below, user have to control the car as another car is approaching from front.
+
+![alt-text](Car.gif)
+
+# Technologies
+
+C#, Unity3D, blender, android sdk 
